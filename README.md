@@ -1,5 +1,4 @@
-# IT
-OS Ticket
-Ticket Creation
-Assigning Tickets
-SLAs/Severities
+- OS Ticket
+- Ticket Creation
+- Assigning Tickets
+- SLAs / Severeties
