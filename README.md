@@ -1,8 +1,10 @@
-- <OS Ticket ~ Creation  Assigning Tickets  SLAs & Severities>
-- <VPNs>
-- <Active Directory File Management & Permissions>
+<div align="center">
 
 # Microsoft Azure
+
+</div>
+
+<div align="center">
 
 ## Azure Services
 
@@ -12,6 +14,10 @@
 - Azure Kubernetes Service (AKS)
 - Azure SQL Database
 
+</div>
+
+<div align="center">
+
 ## Azure Management
 
 - Azure Portal
@@ -20,12 +26,20 @@
 - Azure Policy
 - Azure Blueprints
 
+</div>
+
+<div align="center">
+
 ## Azure Security
 
 - Azure Active Directory
 - Azure Identity and Access Management
 - Azure Security Center
 - Azure Key Vault
+
+</div>
+
+<div align="center">
 
 ## Azure Networking
 
@@ -35,6 +49,10 @@
 - Azure VPN Gateway
 - Azure ExpressRoute
 
+</div>
+
+<div align="center">
+
 ## Azure Storage
 
 - Azure Blob Storage
@@ -42,6 +60,10 @@
 - Azure Table Storage
 - Azure Queue Storage
 - Azure Disk Storage
+
+</div>
+
+<div align="center">
 
 ## Azure DevOps
 
@@ -52,11 +74,19 @@
 - Azure Boards
 - Azure Artifacts
 
+</div>
+
+<div align="center">
+
 ## Azure AI and Machine Learning
 
 - Azure Cognitive Services
 - Azure Machine Learning
 - Azure Bot Service
+
+</div>
+
+<div align="center">
 
 ## Azure IoT
 
@@ -64,11 +94,19 @@
 - Azure IoT Central
 - Azure IoT Edge
 
+</div>
+
+<div align="center">
+
 ## Azure Serverless
 
 - Azure Logic Apps
 - Azure Functions
 - Azure Event Grid
+
+</div>
+
+<div align="center">
 
 ## Azure Governance
 
@@ -76,8 +114,14 @@
 - Azure Blueprints
 - Azure Management Groups
 
+</div>
+
+<div align="center">
+
 ## Azure Cost Management
 
 - Azure Cost Management and Billing
 - Azure Budgets
 - Azure Advisor
+
+</div>
