@@ -1,1 +1,3 @@
 - <OS Ticket: Ticket Creation   Assigning Tickets    SLAs & Severities>
+- VPNs
+- Active Directory File Management & Permissions
