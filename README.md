@@ -1,4 +1,4 @@
-- OS Ticket
+- OS Ticket     -     Ticket Creation     -     Assigning Tickets     -     SLAs & Severities
 - Ticket Creation
 - Assigning Tickets
 - SLAs / Severeties
